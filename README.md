@@ -19,7 +19,7 @@ git clone https://github.com/Jimmy-sha256/DEX_Price_History
 
 virtualenv --python=/usr/bin/python3.10 venv
 
-source /venv/bin/activate
+source venv/bin/activate
 
 pip install -r requirements.txt
 ```
